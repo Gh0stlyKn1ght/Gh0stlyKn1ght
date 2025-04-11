@@ -1,9 +1,7 @@
 
 
 ## Hi there 👋
-#### MBA Candidate at Rutgers University
-#### Bachelors in Cybersecurity
-#### Studied Computer Science at Stockton University
+
 #### Don't know where I'm headed, just a digital head .
 
 
