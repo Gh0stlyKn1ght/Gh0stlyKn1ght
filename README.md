@@ -21,7 +21,8 @@ When I’m not engineering or teaching, I’m deep into cinema—especially **Fr
 I also build and maintain my own tools, including **DeepSniff**, **Gh0stlyFi**, and a growing archive of cybersecurity and OSINT resources—all designed to make complex concepts easier to understand and more engaging to learn.
 
 My teaching philosophy is simple:
-**“Smarter, not harder. Hack life. Hack the planet.”**
+**“Smarter, not harder. ”**
+My Favorite qoute is: *** HACK THE PLANET ***
 
 ---
 
