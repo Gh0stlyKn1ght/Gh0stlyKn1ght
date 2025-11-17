@@ -22,7 +22,8 @@ I also build and maintain my own tools, including **DeepSniff**, **Gh0stlyFi**, 
 
 My teaching philosophy is simple:
 **“Smarter, not harder. ”**
-My Favorite qoute is: *** HACK THE PLANET ***
+My Favorite qoute is: 
+***"HACK THE PLANET!"***
 
 ---
 
