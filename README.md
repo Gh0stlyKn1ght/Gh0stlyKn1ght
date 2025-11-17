@@ -4,8 +4,6 @@
 
 #### Don't know where I'm headed, just a digital head .
 
-Done. Clean, sharp, and completely free of any NJ-specific references.
-
 ---
 
 # **👤 About **
