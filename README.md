@@ -8,7 +8,7 @@ Done. Clean, sharp, and completely free of any NJ-specific references.
 
 ---
 
-# **👤 About the ME**
+# **👤 About **
 
 I’m **Gh0stlyKn1ght**, a Computer Science, Engineering, and Robotics educator who turns classrooms into real-world innovation labs. I teach with a blend of industry-driven STEM practice, cyberpunk creativity, and no-nonsense technical skill—preparing students to think, build, break, fix, and engineer like professionals.
 
