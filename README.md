@@ -8,22 +8,26 @@
 
 # **👤 About **
 
-I’m **Gh0stlyKn1ght**, a Computer Science, Engineering, and Robotics educator who turns classrooms into real-world innovation labs. I teach with a blend of industry-driven STEM practice, cyberpunk creativity, and no-nonsense technical skill—preparing students to think, build, break, fix, and engineer like professionals.
+I’m **Gh0stlyKn1ght** — an engineering, cybersecurity, and software-focused educator who brings real-world tech and modern industry practices into the classroom. I’m new to the robotics world, but I come from a background in cybersecurity, ethical hacking, networking, and web application security, and I teach robotics the same way security engineers work: build, test, break, understand, improve.
 
-My work bridges **electronics, robotics, cybersecurity, sustainable engineering, and design thinking**, using hands-on learning, competitive robotics, and digital fabrication to push students beyond worksheets and into real problem-solving. Whether it’s VEX robotics, microcontrollers, CAD modeling, Wi-Fi engineering, ethical hacking, or web security, I make sure every project connects to actual modern tech careers.
+I focus on hands-on engineering, digital fabrication, microcontrollers, web tech, and competitive robotics to push students beyond worksheets and into real-world problem-solving. I don’t believe in “follow the instructions” engineering—I want students learning how the systems work and why.
 
-I build full-year learning paths that integrate platforms like **Tinkercad, VEXcode, Arduino, Khan Academy, and Code.org**, bringing accessible and future-focused STEM education to every learner.
+My teaching blends robotics, electronics, cybersecurity fundamentals, and software design using platforms like Arduino, VEXcode, Tinkercad, Khan Academy, and Code.org. My goal is to give students practical, transferable skills that lead into modern tech careers—not outdated curriculum.
 
-Outside the classroom, I spend my time **mentoring young builders, hackers, and creators**, helping them level up in robotics, cybersecurity, engineering, and technical problem-solving. My specialty is **web application security and ethical hacking**—breaking systems down, understanding how and why they fail, and teaching students how to build smarter, safer technology.
+I also serve as the Head Coach and lead mentor for a high school FIRST Robotics Competition team, where I’m building the team’s engineering process, documentation systems, technical workflows, and competitive robotics foundation. I focus on creating a student-driven engineering culture—one that encourages experimentation, design thinking, safety, and professional engineering habits.
 
-When I’m not engineering or teaching, I’m deep into cinema—especially **French New Wave, Czech New Wave, Japanese cinema, cyberpunk aesthetics**, and **35mm film scan restorations**.
+My background is in cybersecurity and web application security, and I bring that mindset into robotics and engineering instruction: understanding how systems fail, how to troubleshoot them, and how to build better technology because of it.
 
-I also build and maintain my own tools, including **DeepSniff**, **Gh0stlyFi**, and a growing archive of cybersecurity and OSINT resources—all designed to make complex concepts easier to understand and more engaging to learn.
+When I’m not teaching or building, I’m deep into cinema—especially Japanese film, New Wave movements, cyberpunk aesthetics, and 35mm film restoration.
 
-My teaching philosophy is simple:
-**“Smarter, not harder. ”**
-My Favorite qoute is: 
-***"HACK THE PLANET!"***
+I also develop my own tools—DeepSniff, Gh0stlyFi, and other projects that blend networking, visualization, and security analysis. I’m committed to building learning environments where students actually engineer, innovate, and experiment—not just study theory.
+
+
+
+**“This is our world now… the world of the electron and the switch.”**
+
+**— The Hacker Manifesto (1986)**
+
 
 ---
 
