@@ -12,7 +12,7 @@ I’m **Gh0stlyKn1ght** — an engineering, cybersecurity, and software-focused 
 
 I focus on hands-on engineering, digital fabrication, microcontrollers, web tech, and competitive robotics to push students beyond worksheets and into real-world problem-solving. I don’t believe in “follow the instructions” engineering—I want students learning how the systems work and why.
 
-My teaching blends robotics, electronics, cybersecurity fundamentals, and software design using platforms like Arduino, VEXcode, OnShape, VSCODE, CODEX, CLAUDE Tinkercad, Khan Academy, and Code.org. My goal is to give students practical, transferable skills that lead into modern tech careers—not outdated curriculum.
+My teaching blends robotics,drones, AI, electronics, cybersecurity fundamentals, and software design using platforms like Arduino, VEXcode, OnShape, VSCODE, CODEX, CLAUDE Tinkercad, Khan Academy, and Code.org. My goal is to give students practical, transferable skills that lead into modern tech careers—not outdated curriculum.
 
 I also serve as the Head Coach and lead mentor for a high school FIRST Robotics Competition team, where I’m building the team’s engineering process, documentation systems, technical workflows, and competitive robotics foundation. I focus on creating a student-driven engineering culture—one that encourages experimentation, design thinking, safety, and professional engineering habits.
 
