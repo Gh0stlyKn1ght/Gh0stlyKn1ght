@@ -108,6 +108,8 @@ The goal is to understand how the pieces interact well enough to build better sy
 
 ## Education
 
+**Bachelor of Science in Cybersecurity**
+
 I also teach computer systems, cybersecurity, programming, esports technology, and robotics.
 
 My classroom work is heavily lab-driven. Students build systems, inspect them, troubleshoot them, simulate them, and learn why they behave the way they do.
