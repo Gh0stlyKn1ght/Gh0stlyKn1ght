@@ -4,7 +4,7 @@
 
 I build, break, document, and teach complex technical systems.
 
-My background started in **cybersecurity, networking, ethical hacking, and web application security**. That work has expanded into **robotics, embedded systems, Linux, FRC software, ROS 2, simulation, AI-assisted engineering, and security architecture**.
+My background started in **cybersecurity, networking, ethical hacking, and web application security**. That work has expanded into **robotics, embedded systems, Linux, FRC software, ROS 2, simulation, and secure-by-design system architecture**.
 
 I am especially interested in the point where software meets the physical world: robots, radios, controllers, sensors, networks, autonomous systems, and the infrastructure required to develop and secure them.
 
@@ -66,6 +66,25 @@ Motors / Mechanisms / Power / Environment
 ```
 
 My work increasingly focuses on understanding and securing the **entire stack**, not just individual applications.
+
+---
+
+## Security Contributions
+
+### PhotoCraft Automation Sandboxing
+
+**Designed and contributed capability-scoped filesystem controls for application automation**, introducing separate read/write roots, traversal and symlink/junction escape protections, and fail-closed access defaults.
+
+The contribution:
+- Shifted the **trust boundary for automation-driven filesystem access** through `cap-std` capability rooting
+- Enforces relative-only paths and blocks `../` traversal escapes
+- Rejects symlink and Windows junction escapes
+- **Fails closed** when automation roots are not configured
+- Suppresses script events during automation for predictable, auditable behavior
+- Survived upstream validation: **2,350 tests + Clippy + WASM builds + panic fuzzing**
+- Authorship preserved and featured in the **0.2.0 release notes** as part of the documented security model
+
+This represents a foundational security area of the project, not an isolated bug fix. The contribution affects PhotoCraft's **documented trust model and automation security posture**.
 
 ---
 
@@ -131,5 +150,5 @@ Current instructional areas include:
 
 ---
 
-> **“This is our world now... the world of the electron and the switch.”**  
+> **"This is our world now... the world of the electron and the switch."**  
 > The Hacker Manifesto, 1986
